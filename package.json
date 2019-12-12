@@ -27,5 +27,8 @@
         "startbootstrap-clean-blog": "^5.0.8",
         "vue": "^2.5.17",
         "vue-template-compiler": "^2.6.10"
+    },
+    "dependencies": {
+        "csv": "^5.3.1"
     }
 }
