@@ -17,7 +17,7 @@
         "datatables.net-bs4": "^1.10.20",
         "jquery": "^3.2",
         "laravel-mix": "^4.0.7",
-        "lodash": "^4.17.5",
+        "lodash": "^4.17.19",
         "pickadate": "^5.0.0-alpha.3",
         "popper.js": "^1.12",
         "resolve-url-loader": "^2.3.1",
